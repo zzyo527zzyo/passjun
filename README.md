@@ -28,7 +28,4 @@ pass君是一款可以跳过开屏广告的安卓手机软件工具。
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzyo527zzyo/passjun&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zzyo527zzyo/passjun&type=Date" />
   </picture>
-</a>
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rongzhiy/LiTiaotiao&type=Date" />
-  </picture>
-</a>
+
