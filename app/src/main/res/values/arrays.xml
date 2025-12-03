@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 倍速选项：显示给用户的文字 -->
+    <string-array name="speed_entries">
+        <item>10 倍速</item>
+        <item>100 倍速</item>
+        <item>1000 倍速</item>
+    </string-array>
+
+    <!-- 倍速选项：实际存储的值（建议用数字字符串） -->
+    <string-array name="speed_entry_values">
+        <item>10</item>
+        <item>100</item>
+        <item>1000</item>
+    </string-array>
+</resources>

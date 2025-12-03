@@ -1,0 +1,29 @@
+<!-- res/layout/preference_centered_icon_switch.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="300dp"
+    android:gravity="center"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall">
+<!--    这里icon就代表引用这个xml部分的icon属性的值
+        switchWidget就代表引用这个xml部分的按钮-->
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="16dp"
+        android:src="@mipmap/ic_launcher"
+       />
+
+<!--  这一行可以让无障碍服务找不到 android:importantForAccessibility="no"-->
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchWidget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:clickable="false" />
+
+</LinearLayout>

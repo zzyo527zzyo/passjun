@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <SwitchPreferenceCompat
+        android:layout_width="match_parent"
+        app:key="open"
+        android:layout="@layout/preference_centered_icon_switch"
+        />
+</PreferenceScreen>

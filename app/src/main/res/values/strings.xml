@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pass君</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">
+        \n🎀🎀🎀\n
+        ------------\n
+        我的作用：帮你跳过开屏广告，以及部分领取奖励的广告。\n
+        ------------\n
+        用户须知：pass君是一个单机应用，不会收集📱你的隐私\n
+        ------------\n
+        🎀🎀🎀</string>
+    <string name="loading_app_list">正在加载应用列表…</string>
+
+</resources>
