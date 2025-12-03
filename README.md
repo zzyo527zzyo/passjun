@@ -10,11 +10,6 @@ pass君是一款可以跳过开屏广告的安卓手机软件工具。
 
 ✅983821691@qq.com
 
-使用教程：
-
-✅[真实好友](https://www.bilibili.com/video/BV1GL4y1p7Pt/?share_source=copy_web&vd_source=a6cccf0ec5cff281201d16f54d042779)
-
-
 		
 ### ---本软件不参与任何商业行为
 
